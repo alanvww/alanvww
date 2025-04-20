@@ -15,4 +15,4 @@
 - [🎨 Portfolio](https://link.alan.ooo/portfolio)
 
 ## GitHub Stats 📊
-![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanvww&show_icons=true&theme=dracula)
+![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanvww&show_icons=false&theme=material-palenight)
