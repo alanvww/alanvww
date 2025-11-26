@@ -1,4 +1,4 @@
-# Hi there, I'm Alan Ren 👋
+# Hi there, I'm Alan Yam 👋
 
 > Design engineer crafting thoughtful digital experiences through code.
 
